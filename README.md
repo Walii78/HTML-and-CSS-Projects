@@ -13,7 +13,7 @@ HTML_Table.html
 Creating-a-CSS-menu/CSS
 Effecting-images-with-CSS/CSS
 
-academy cinema_updated.html
-Bootstrap4_Project-Updated
-one_page_website_project
+academy cinema_updated-website.html
+Bootstrap4_Project-Updated-website
+one_page_website_project-website
 
