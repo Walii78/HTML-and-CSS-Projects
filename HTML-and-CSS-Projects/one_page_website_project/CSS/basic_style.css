@@ -100,3 +100,10 @@ ANIMATION EFFECT
         transform: translateY(300px);
     }
 }
+form input[type="text"]{
+    width: 20%;
+    margin: 5px;
+    border: 2px solid peachpuff;
+    border-radius: 7px;
+}
+
